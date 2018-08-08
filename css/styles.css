@@ -1,0 +1,8 @@
+#story {
+  display: none;
+}
+.container {background-color: black}
+.container {color: darkorchid}
+.container {padding: 20px}
+.head {background-color: darkblue; text-align: center;}
+.head {font-family: fantasy;}
